@@ -1,0 +1,426 @@
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\appsettings.Development.json
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\appsettings.json
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Inventory.WebApi.exe
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Inventory.WebApi.deps.json
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Inventory.WebApi.runtimeconfig.json
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Inventory.WebApi.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Inventory.WebApi.pdb
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Azure.Core.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Azure.Identity.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Humanizer.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\System.CodeDom.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\System.Composition.Convention.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\System.Memory.Data.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\obj\Debug\net8.0\Inventory.WebApi.csproj.AssemblyReference.cache
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\obj\Debug\net8.0\Inventory.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\obj\Debug\net8.0\Inventory.WebApi.AssemblyInfoInputs.cache
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\obj\Debug\net8.0\Inventory.WebApi.AssemblyInfo.cs
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\obj\Debug\net8.0\Inventory.WebApi.csproj.CoreCompileInputs.cache
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\obj\Debug\net8.0\Inventory.WebApi.MvcApplicationPartsAssemblyInfo.cs
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\obj\Debug\net8.0\Inventory.WebApi.MvcApplicationPartsAssemblyInfo.cache
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\obj\Debug\net8.0\staticwebassets.build.json
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\obj\Debug\net8.0\staticwebassets.development.json
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\obj\Debug\net8.0\staticwebassets\msbuild.Inventory.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.Inventory.WebApi.props
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Inventory.WebApi.props
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Inventory.WebApi.props
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\obj\Debug\net8.0\staticwebassets.pack.json
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\obj\Debug\net8.0\scopedcss\bundle\Inventory.WebApi.styles.css
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\obj\Debug\net8.0\Inventor.832EA4B5.Up2Date
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\obj\Debug\net8.0\Inventory.WebApi.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\obj\Debug\net8.0\refint\Inventory.WebApi.dll
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\obj\Debug\net8.0\Inventory.WebApi.pdb
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\obj\Debug\net8.0\Inventory.WebApi.genruntimeconfig.cache
+Y:\Portofolio Coding\PharmacyManagement\InventoryWebApi\obj\Debug\net8.0\ref\Inventory.WebApi.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\appsettings.Development.json
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\appsettings.json
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Inventory.WebApi.exe
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Inventory.WebApi.deps.json
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Inventory.WebApi.runtimeconfig.json
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Inventory.WebApi.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Inventory.WebApi.pdb
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Azure.Core.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Azure.Identity.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Humanizer.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.CodeDom.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.Composition.Convention.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\Inventory.WebApi.csproj.AssemblyReference.cache
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\Inventory.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\Inventory.WebApi.AssemblyInfoInputs.cache
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\Inventory.WebApi.AssemblyInfo.cs
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\Inventory.WebApi.csproj.CoreCompileInputs.cache
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\Inventory.WebApi.MvcApplicationPartsAssemblyInfo.cs
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\Inventory.WebApi.MvcApplicationPartsAssemblyInfo.cache
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\staticwebassets.development.json
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.Inventory.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.Inventory.WebApi.props
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Inventory.WebApi.props
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Inventory.WebApi.props
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\scopedcss\bundle\Inventory.WebApi.styles.css
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\Inventor.832EA4B5.Up2Date
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\Inventory.WebApi.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\refint\Inventory.WebApi.dll
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\Inventory.WebApi.pdb
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\Inventory.WebApi.genruntimeconfig.cache
+Y:\Portofolio Coding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\ref\Inventory.WebApi.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\appsettings.Development.json
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\appsettings.json
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Inventory.WebApi.exe
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Inventory.WebApi.deps.json
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Inventory.WebApi.runtimeconfig.json
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Inventory.WebApi.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Inventory.WebApi.pdb
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Azure.Core.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Azure.Identity.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Humanizer.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.CodeDom.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.Composition.Convention.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\Inventory.WebApi.csproj.AssemblyReference.cache
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\Inventory.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\Inventory.WebApi.AssemblyInfoInputs.cache
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\Inventory.WebApi.AssemblyInfo.cs
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\Inventory.WebApi.csproj.CoreCompileInputs.cache
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\Inventory.WebApi.MvcApplicationPartsAssemblyInfo.cs
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\Inventory.WebApi.MvcApplicationPartsAssemblyInfo.cache
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\staticwebassets.development.json
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.Inventory.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.Inventory.WebApi.props
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Inventory.WebApi.props
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Inventory.WebApi.props
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\scopedcss\bundle\Inventory.WebApi.styles.css
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\Inventor.832EA4B5.Up2Date
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\Inventory.WebApi.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\refint\Inventory.WebApi.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\Inventory.WebApi.pdb
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\Inventory.WebApi.genruntimeconfig.cache
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\ref\Inventory.WebApi.dll
