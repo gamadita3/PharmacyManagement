@@ -17,18 +17,16 @@ public class InvoicesController : ControllerBase
         _context = context;
     }
 
-    //Get invoices
     [HttpGet]
-    public async Task<ActionResult<IEnumerable<Invoice>>> GetInvoices()
+    public async Task<ActionResult<IEnumerable<InvoiceModel>>> GetInvoices()
     {
         return await _context.Invoices
             .Include(i => i.Drug)
             .ToListAsync();
     }
 
-    //Get invoice
     [HttpGet("{id}")]
-    public async Task<ActionResult<Invoice>> GetInvoice(Guid id)
+    public async Task<ActionResult<InvoiceModel>> GetInvoice(Guid id)
     {
         var invoice = await _context.Invoices
             .Include(i => i.Drug)

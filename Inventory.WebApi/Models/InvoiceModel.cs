@@ -1,6 +1,6 @@
 ﻿namespace Inventory.WebApi.Models
 {
-    public class Invoice
+    public class InvoiceModel
     {
         public Guid InvoiceId { get; set; } = Guid.NewGuid();
         public Guid DrugId { get; set; }
@@ -9,6 +9,6 @@
         public DateTime Date { get; set; } = DateTime.UtcNow;
 
         // Navigation property
-        public Drug Drug { get; set; }
+        public DrugModel Drug { get; set; }
     }
 }

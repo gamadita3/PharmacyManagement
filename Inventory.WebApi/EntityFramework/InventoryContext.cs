@@ -7,27 +7,27 @@ namespace Inventory.WebApi.EntityFramework
     {
         public InventoryContext(DbContextOptions<InventoryContext> options) : base(options) { }
 
-        public DbSet<Drug> Drugs { get; set; }
-        public DbSet<Manufacturer> Manufacturers { get; set; }
-        public DbSet<Invoice> Invoices { get; set; }
+        public DbSet<DrugModel> Drugs { get; set; }
+        public DbSet<ManufacturerModel> Manufacturers { get; set; }
+        public DbSet<InvoiceModel> Invoices { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Drug>()
+            modelBuilder.Entity<DrugModel>()
                 .Property(d => d.Price)
                 .HasPrecision(18, 2);
 
-            modelBuilder.Entity<Invoice>()
+            modelBuilder.Entity<InvoiceModel>()
                 .Property(i => i.TotalPrice)
                 .HasPrecision(18, 2);
 
             // Other configurations
-            modelBuilder.Entity<Drug>()
+            modelBuilder.Entity<DrugModel>()
                 .HasOne(d => d.Manufacturer)
                 .WithMany(m => m.Drugs)
                 .HasForeignKey(d => d.ManufacturerId);
 
-            modelBuilder.Entity<Invoice>()
+            modelBuilder.Entity<InvoiceModel>()
                 .HasOne(i => i.Drug)
                 .WithMany()
                 .HasForeignKey(i => i.DrugId);

@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "Y:\\PortofolioCoding\\PharmacyManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB228447-149F-4488-A2CC-595E52246BDD}|Inventory.WebApi\\Inventory.WebApi.csproj|y:\\portofoliocoding\\pharmacymanagement\\inventory.webapi\\entityframework\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB228447-149F-4488-A2CC-595E52246BDD}|Inventory.WebApi\\Inventory.WebApi.csproj|solutionrelative:inventory.webapi\\entityframework\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{920EB802-BBC5-4F52-9C3F-57691630AEA0}|Customer.WebApi\\Customer.WebApi.csproj|y:\\portofoliocoding\\pharmacymanagement\\customer.webapi\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920EB802-BBC5-4F52-9C3F-57691630AEA0}|Customer.WebApi\\Customer.WebApi.csproj|solutionrelative:customer.webapi\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB228447-149F-4488-A2CC-595E52246BDD}|Inventory.WebApi\\Inventory.WebApi.csproj|y:\\portofoliocoding\\pharmacymanagement\\inventory.webapi\\models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB228447-149F-4488-A2CC-595E52246BDD}|Inventory.WebApi\\Inventory.WebApi.csproj|solutionrelative:inventory.webapi\\models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{920EB802-BBC5-4F52-9C3F-57691630AEA0}|Customer.WebApi\\Customer.WebApi.csproj|y:\\portofoliocoding\\pharmacymanagement\\customer.webapi\\entityframework\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920EB802-BBC5-4F52-9C3F-57691630AEA0}|Customer.WebApi\\Customer.WebApi.csproj|solutionrelative:customer.webapi\\entityframework\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB228447-149F-4488-A2CC-595E52246BDD}|Inventory.WebApi\\Inventory.WebApi.csproj|y:\\portofoliocoding\\pharmacymanagement\\inventory.webapi\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB228447-149F-4488-A2CC-595E52246BDD}|Inventory.WebApi\\Inventory.WebApi.csproj|solutionrelative:inventory.webapi\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{920EB802-BBC5-4F52-9C3F-57691630AEA0}|Customer.WebApi\\Customer.WebApi.csproj|y:\\portofoliocoding\\pharmacymanagement\\customer.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{920EB802-BBC5-4F52-9C3F-57691630AEA0}|Customer.WebApi\\Customer.WebApi.csproj|solutionrelative:customer.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB228447-149F-4488-A2CC-595E52246BDD}|Inventory.WebApi\\Inventory.WebApi.csproj|y:\\portofoliocoding\\pharmacymanagement\\inventory.webapi\\models\\drug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB228447-149F-4488-A2CC-595E52246BDD}|Inventory.WebApi\\Inventory.WebApi.csproj|solutionrelative:inventory.webapi\\models\\drug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB228447-149F-4488-A2CC-595E52246BDD}|Inventory.WebApi\\Inventory.WebApi.csproj|y:\\portofoliocoding\\pharmacymanagement\\inventory.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB228447-149F-4488-A2CC-595E52246BDD}|Inventory.WebApi\\Inventory.WebApi.csproj|solutionrelative:inventory.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920EB802-BBC5-4F52-9C3F-57691630AEA0}|Customer.WebApi\\Customer.WebApi.csproj|y:\\portofoliocoding\\pharmacymanagement\\customer.webapi\\services\\customermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920EB802-BBC5-4F52-9C3F-57691630AEA0}|Customer.WebApi\\Customer.WebApi.csproj|solutionrelative:customer.webapi\\services\\customermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920EB802-BBC5-4F52-9C3F-57691630AEA0}|Customer.WebApi\\Customer.WebApi.csproj|y:\\portofoliocoding\\pharmacymanagement\\customer.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920EB802-BBC5-4F52-9C3F-57691630AEA0}|Customer.WebApi\\Customer.WebApi.csproj|solutionrelative:customer.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920EB802-BBC5-4F52-9C3F-57691630AEA0}|Customer.WebApi\\Customer.WebApi.csproj|y:\\portofoliocoding\\pharmacymanagement\\customer.webapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920EB802-BBC5-4F52-9C3F-57691630AEA0}|Customer.WebApi\\Customer.WebApi.csproj|solutionrelative:customer.webapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB228447-149F-4488-A2CC-595E52246BDD}|Inventory.WebApi\\Inventory.WebApi.csproj|y:\\portofoliocoding\\pharmacymanagement\\inventory.webapi\\services\\manufacturermanagement\\manufacturermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB228447-149F-4488-A2CC-595E52246BDD}|Inventory.WebApi\\Inventory.WebApi.csproj|solutionrelative:inventory.webapi\\services\\manufacturermanagement\\manufacturermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB228447-149F-4488-A2CC-595E52246BDD}|Inventory.WebApi\\Inventory.WebApi.csproj|y:\\portofoliocoding\\pharmacymanagement\\inventory.webapi\\services\\manufacturermanagement\\imanufacturermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB228447-149F-4488-A2CC-595E52246BDD}|Inventory.WebApi\\Inventory.WebApi.csproj|solutionrelative:inventory.webapi\\services\\manufacturermanagement\\imanufacturermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB228447-149F-4488-A2CC-595E52246BDD}|Inventory.WebApi\\Inventory.WebApi.csproj|y:\\portofoliocoding\\pharmacymanagement\\inventory.webapi\\controllers\\manufacturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,22 +51,24 @@
       "RelativeMoniker": "D:0:0:{CB228447-149F-4488-A2CC-595E52246BDD}|Inventory.WebApi\\Inventory.WebApi.csproj|solutionrelative:inventory.webapi\\controllers\\drugscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB228447-149F-4488-A2CC-595E52246BDD}|Inventory.WebApi\\Inventory.WebApi.csproj|y:\\portofoliocoding\\pharmacymanagement\\inventory.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB228447-149F-4488-A2CC-595E52246BDD}|Inventory.WebApi\\Inventory.WebApi.csproj|solutionrelative:inventory.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{920EB802-BBC5-4F52-9C3F-57691630AEA0}|Customer.WebApi\\Customer.WebApi.csproj|y:\\portofoliocoding\\pharmacymanagement\\customer.webapi\\services\\icustomermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920EB802-BBC5-4F52-9C3F-57691630AEA0}|Customer.WebApi\\Customer.WebApi.csproj|solutionrelative:customer.webapi\\services\\icustomermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB228447-149F-4488-A2CC-595E52246BDD}|Inventory.WebApi\\Inventory.WebApi.csproj|y:\\portofoliocoding\\pharmacymanagement\\inventory.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CB228447-149F-4488-A2CC-595E52246BDD}|Inventory.WebApi\\Inventory.WebApi.csproj|solutionrelative:inventory.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{CB228447-149F-4488-A2CC-595E52246BDD}|Inventory.WebApi\\Inventory.WebApi.csproj|y:\\portofoliocoding\\pharmacymanagement\\inventory.webapi\\services\\drugmanagement\\idrugmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB228447-149F-4488-A2CC-595E52246BDD}|Inventory.WebApi\\Inventory.WebApi.csproj|solutionrelative:inventory.webapi\\services\\drugmanagement\\idrugmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Y:\\Portofolio Coding\\PharmacyManagement\\Inventory.WebApi\\Migrations\\20241102152644_InitialInventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB228447-149F-4488-A2CC-595E52246BDD}|Inventory.WebApi\\Inventory.WebApi.csproj|y:\\portofoliocoding\\pharmacymanagement\\inventory.webapi\\models\\drugmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB228447-149F-4488-A2CC-595E52246BDD}|Inventory.WebApi\\Inventory.WebApi.csproj|solutionrelative:inventory.webapi\\models\\drugmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB228447-149F-4488-A2CC-595E52246BDD}|Inventory.WebApi\\Inventory.WebApi.csproj|y:\\portofoliocoding\\pharmacymanagement\\inventory.webapi\\inventory.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CB228447-149F-4488-A2CC-595E52246BDD}|Inventory.WebApi\\Inventory.WebApi.csproj|solutionrelative:inventory.webapi\\inventory.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{920EB802-BBC5-4F52-9C3F-57691630AEA0}|Customer.WebApi\\Customer.WebApi.csproj|y:\\portofoliocoding\\pharmacymanagement\\customer.webapi\\dto\\updatecustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920EB802-BBC5-4F52-9C3F-57691630AEA0}|Customer.WebApi\\Customer.WebApi.csproj|solutionrelative:customer.webapi\\dto\\updatecustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Y:\\Portofolio Coding\\PharmacyManagement\\TransactionWebApi\\Transaction.WebApi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{920EB802-BBC5-4F52-9C3F-57691630AEA0}|Customer.WebApi\\Customer.WebApi.csproj|y:\\portofoliocoding\\pharmacymanagement\\customer.webapi\\dto\\addcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920EB802-BBC5-4F52-9C3F-57691630AEA0}|Customer.WebApi\\Customer.WebApi.csproj|solutionrelative:customer.webapi\\dto\\addcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,156 +78,232 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerModel.cs",
+              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Customer.WebApi\\Models\\CustomerModel.cs",
+              "RelativeDocumentMoniker": "Customer.WebApi\\Models\\CustomerModel.cs",
+              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Customer.WebApi\\Models\\CustomerModel.cs",
+              "RelativeToolTip": "Customer.WebApi\\Models\\CustomerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:53:23.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Inventory.WebApi\\appsettings.json",
+              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\appsettings.json",
+              "RelativeToolTip": "Inventory.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T02:50:46.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Customer.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Customer.WebApi\\appsettings.json",
+              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Customer.WebApi\\appsettings.json",
+              "RelativeToolTip": "Customer.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T02:50:35.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Customer.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Customer.WebApi\\Program.cs",
+              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Customer.WebApi\\Program.cs",
+              "RelativeToolTip": "Customer.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:49:01.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerContext.cs",
+              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Customer.WebApi\\EntityFramework\\CustomerContext.cs",
+              "RelativeDocumentMoniker": "Customer.WebApi\\EntityFramework\\CustomerContext.cs",
+              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Customer.WebApi\\EntityFramework\\CustomerContext.cs",
+              "RelativeToolTip": "Customer.WebApi\\EntityFramework\\CustomerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:47:18.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManufacturerManagement.cs",
+              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Services\\ManufacturerManagement\\ManufacturerManagement.cs",
+              "RelativeDocumentMoniker": "Inventory.WebApi\\Services\\ManufacturerManagement\\ManufacturerManagement.cs",
+              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Services\\ManufacturerManagement\\ManufacturerManagement.cs",
+              "RelativeToolTip": "Inventory.WebApi\\Services\\ManufacturerManagement\\ManufacturerManagement.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwDQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:45:59.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IManufacturerManagement.cs",
+              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Services\\ManufacturerManagement\\IManufacturerManagement.cs",
+              "RelativeDocumentMoniker": "Inventory.WebApi\\Services\\ManufacturerManagement\\IManufacturerManagement.cs",
+              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Services\\ManufacturerManagement\\IManufacturerManagement.cs",
+              "RelativeToolTip": "Inventory.WebApi\\Services\\ManufacturerManagement\\IManufacturerManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:30:29.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManufacturerController.cs",
+              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Controllers\\ManufacturerController.cs",
+              "RelativeDocumentMoniker": "Inventory.WebApi\\Controllers\\ManufacturerController.cs",
+              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Controllers\\ManufacturerController.cs",
+              "RelativeToolTip": "Inventory.WebApi\\Controllers\\ManufacturerController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwEAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:45:29.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "Inventory.WebApi\\Controllers\\InvoiceController.cs",
+              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "Inventory.WebApi\\Controllers\\InvoiceController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:45:23.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Customer.WebApi\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Customer.WebApi\\Controllers\\CustomerController.cs",
+              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Customer.WebApi\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Customer.WebApi\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:37:47.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerManagement.cs",
+              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Customer.WebApi\\Services\\CustomerManagement.cs",
+              "RelativeDocumentMoniker": "Customer.WebApi\\Services\\CustomerManagement.cs",
+              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Customer.WebApi\\Services\\CustomerManagement.cs",
+              "RelativeToolTip": "Customer.WebApi\\Services\\CustomerManagement.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:27:13.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DrugsController.cs",
+              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Controllers\\DrugsController.cs",
+              "RelativeDocumentMoniker": "Inventory.WebApi\\Controllers\\DrugsController.cs",
+              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Controllers\\DrugsController.cs",
+              "RelativeToolTip": "Inventory.WebApi\\Controllers\\DrugsController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAEwDIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:25:08.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DrugModel.cs",
+              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Models\\DrugModel.cs",
+              "RelativeDocumentMoniker": "Inventory.WebApi\\Models\\DrugModel.cs",
+              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Models\\DrugModel.cs",
+              "RelativeToolTip": "Inventory.WebApi\\Models\\DrugModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:24:44.425Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ManufacturerController.cs",
-              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Controllers\\ManufacturerController.cs",
-              "RelativeDocumentMoniker": "Inventory.WebApi\\Controllers\\ManufacturerController.cs",
-              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Controllers\\ManufacturerController.cs",
-              "RelativeToolTip": "Inventory.WebApi\\Controllers\\ManufacturerController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAswE4AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "IDrugManagement.cs",
+              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Services\\DrugManagement\\IDrugManagement.cs",
+              "RelativeDocumentMoniker": "Inventory.WebApi\\Services\\DrugManagement\\IDrugManagement.cs",
+              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Services\\DrugManagement\\IDrugManagement.cs",
+              "RelativeToolTip": "Inventory.WebApi\\Services\\DrugManagement\\IDrugManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T04:10:52.526Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InvoiceController.cs",
-              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Controllers\\InvoiceController.cs",
-              "RelativeDocumentMoniker": "Inventory.WebApi\\Controllers\\InvoiceController.cs",
-              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Controllers\\InvoiceController.cs",
-              "RelativeToolTip": "Inventory.WebApi\\Controllers\\InvoiceController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T04:03:29.834Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DrugsController.cs",
-              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Controllers\\DrugsController.cs",
-              "RelativeDocumentMoniker": "Inventory.WebApi\\Controllers\\DrugsController.cs",
-              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Controllers\\DrugsController.cs",
-              "RelativeToolTip": "Inventory.WebApi\\Controllers\\DrugsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T04:03:29.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "InventoryContext.cs",
-              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\EntityFramework\\InventoryContext.cs",
-              "RelativeDocumentMoniker": "Inventory.WebApi\\EntityFramework\\InventoryContext.cs",
-              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\EntityFramework\\InventoryContext.cs",
-              "RelativeToolTip": "Inventory.WebApi\\EntityFramework\\InventoryContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T15:32:08.9Z",
+              "WhenOpened": "2024-11-07T02:19:35.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Manufacturer.cs",
-              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Models\\Manufacturer.cs",
-              "RelativeDocumentMoniker": "Inventory.WebApi\\Models\\Manufacturer.cs",
-              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Models\\Manufacturer.cs",
-              "RelativeToolTip": "Inventory.WebApi\\Models\\Manufacturer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "ICustomerManagement.cs",
+              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Customer.WebApi\\Services\\ICustomerManagement.cs",
+              "RelativeDocumentMoniker": "Customer.WebApi\\Services\\ICustomerManagement.cs",
+              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Customer.WebApi\\Services\\ICustomerManagement.cs",
+              "RelativeToolTip": "Customer.WebApi\\Services\\ICustomerManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T15:27:50.596Z"
+              "WhenOpened": "2024-11-07T02:11:19.727Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Invoice.cs",
-              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Models\\Invoice.cs",
-              "RelativeDocumentMoniker": "Inventory.WebApi\\Models\\Invoice.cs",
-              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Models\\Invoice.cs",
-              "RelativeToolTip": "Inventory.WebApi\\Models\\Invoice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "UpdateCustomerDto.cs",
+              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Customer.WebApi\\Dto\\UpdateCustomerDto.cs",
+              "RelativeDocumentMoniker": "Customer.WebApi\\Dto\\UpdateCustomerDto.cs",
+              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Customer.WebApi\\Dto\\UpdateCustomerDto.cs",
+              "RelativeToolTip": "Customer.WebApi\\Dto\\UpdateCustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T15:26:59.137Z"
+              "WhenOpened": "2024-11-07T02:10:52.305Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Drug.cs",
-              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Models\\Drug.cs",
-              "RelativeDocumentMoniker": "Inventory.WebApi\\Models\\Drug.cs",
-              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Models\\Drug.cs",
-              "RelativeToolTip": "Inventory.WebApi\\Models\\Drug.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "AddCustomerDto.cs",
+              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Customer.WebApi\\Dto\\AddCustomerDto.cs",
+              "RelativeDocumentMoniker": "Customer.WebApi\\Dto\\AddCustomerDto.cs",
+              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Customer.WebApi\\Dto\\AddCustomerDto.cs",
+              "RelativeToolTip": "Customer.WebApi\\Dto\\AddCustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T15:26:56.17Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20241102152644_InitialInventory.cs",
-              "DocumentMoniker": "Y:\\Portofolio Coding\\PharmacyManagement\\Inventory.WebApi\\Migrations\\20241102152644_InitialInventory.cs",
-              "RelativeDocumentMoniker": "..\\..\\Portofolio Coding\\PharmacyManagement\\Inventory.WebApi\\Migrations\\20241102152644_InitialInventory.cs",
-              "ToolTip": "Y:\\Portofolio Coding\\PharmacyManagement\\Inventory.WebApi\\Migrations\\20241102152644_InitialInventory.cs",
-              "RelativeToolTip": "..\\..\\Portofolio Coding\\PharmacyManagement\\Inventory.WebApi\\Migrations\\20241102152644_InitialInventory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T15:26:45.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "Inventory.WebApi\\Program.cs",
-              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Program.cs",
-              "RelativeToolTip": "Inventory.WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T14:48:32.216Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "Inventory.WebApi\\appsettings.json",
-              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\appsettings.json",
-              "RelativeToolTip": "Inventory.WebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-02T14:48:31.274Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Inventory.WebApi.csproj",
-              "DocumentMoniker": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Inventory.WebApi.csproj",
-              "RelativeDocumentMoniker": "Inventory.WebApi\\Inventory.WebApi.csproj",
-              "ToolTip": "Y:\\PortofolioCoding\\PharmacyManagement\\Inventory.WebApi\\Inventory.WebApi.csproj",
-              "RelativeToolTip": "Inventory.WebApi\\Inventory.WebApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-02T14:48:30.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Transaction.WebApi.csproj",
-              "DocumentMoniker": "Y:\\Portofolio Coding\\PharmacyManagement\\TransactionWebApi\\Transaction.WebApi.csproj",
-              "RelativeDocumentMoniker": "..\\..\\Portofolio Coding\\PharmacyManagement\\TransactionWebApi\\Transaction.WebApi.csproj",
-              "ToolTip": "Y:\\Portofolio Coding\\PharmacyManagement\\TransactionWebApi\\Transaction.WebApi.csproj",
-              "RelativeToolTip": "..\\..\\Portofolio Coding\\PharmacyManagement\\TransactionWebApi\\Transaction.WebApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-02T14:29:57.641Z"
+              "WhenOpened": "2024-11-07T02:10:37.496Z",
+              "EditorCaption": ""
             }
           ]
         }

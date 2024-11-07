@@ -424,3 +424,4 @@ Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\refint\
 Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\Inventory.WebApi.pdb
 Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\Inventory.WebApi.genruntimeconfig.cache
 Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\ref\Inventory.WebApi.dll
+Y:\PortofolioCoding\PharmacyManagement\Inventory.WebApi\obj\Debug\net8.0\Inventory.WebApi.sourcelink.json

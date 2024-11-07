@@ -2,7 +2,7 @@
 
 namespace Inventory.WebApi.Models
 {
-    public class Drug
+    public class DrugModel
     {
         public Guid DrugId { get; set; } = Guid.NewGuid();
         [Required]
@@ -14,6 +14,6 @@ namespace Inventory.WebApi.Models
 
         // Foreign key and navigation property
         public Guid ManufacturerId { get; set; }
-        public Manufacturer Manufacturer { get; set; }
+        public ManufacturerModel Manufacturer { get; set; }
     }
 }

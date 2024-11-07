@@ -5,74 +5,65 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Inventory.WebApi.EntityFramework;
 using Inventory.WebApi.Models;
+using Inventory.WebApi.Services.ManufacturerManagement;
+using Inventory.WebApi.Dto;
 
 namespace Inventory.WebApi.Controllers
 {
-
-    [Route("api/[controller]")]
+        [Route("api/[controller]")]
     [ApiController]
     public class ManufacturersController : ControllerBase
     {
-        private readonly InventoryContext _context;
+        private readonly IManufacturerManagement _manufacturerService;
 
-        public ManufacturersController(InventoryContext context)
+        public ManufacturersController(IManufacturerManagement manufacturerService)
         {
-            _context = context;
+            _manufacturerService = manufacturerService;
         }
 
-        //Get manufacturers
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Manufacturer>>> GetManufacturers()
+        public async Task<ActionResult<IEnumerable<ManufacturerModel>>> GetManufacturers()
         {
-            return await _context.Manufacturers.ToListAsync();
+            return Ok(await _manufacturerService.GetAllManufacturers());
         }
 
-        //Get specific manufacturer
         [HttpGet("{id}")]
-        public async Task<ActionResult<Manufacturer>> GetManufacturer(Guid id)
+        public async Task<ActionResult<ManufacturerModel>> GetManufacturer(Guid id)
         {
-            var manufacturer = await _context.Manufacturers.FindAsync(id);
+            var manufacturer = await _manufacturerService.GetManufacturerById(id);
             if (manufacturer == null) return NotFound();
 
             return manufacturer;
         }
 
-        //Add manufacturer
         [HttpPost]
-        public async Task<ActionResult<Manufacturer>> PostManufacturer(Manufacturer manufacturer)
+        public async Task<ActionResult<ManufacturerModel>> PostManufacturer(AddManufacturerDto manufacturerDto)
         {
-            if (string.IsNullOrWhiteSpace(manufacturer.Name))
+            if (string.IsNullOrWhiteSpace(manufacturerDto.Name))
             {
                 return BadRequest("Manufacturer name is required.");
             }
 
-            _context.Manufacturers.Add(manufacturer);
-            await _context.SaveChangesAsync();
-
-            return CreatedAtAction(nameof(GetManufacturer), new { id = manufacturer.ManufacturerId }, manufacturer);
+            var createdManufacturer = await _manufacturerService.AddManufacturer(manufacturerDto);
+            return CreatedAtAction(nameof(GetManufacturer), new { id = createdManufacturer.ManufacturerId }, createdManufacturer);
         }
 
-        //Update manufacturer
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutManufacturer(Guid id, Manufacturer manufacturer)
+        public async Task<IActionResult> PutManufacturer(Guid id, UpdateManufacturerDto manufacturerDto)
         {
-            if (id != manufacturer.ManufacturerId) return BadRequest();
+            if (id != manufacturerDto.ManufacturerId) return BadRequest();
 
-            _context.Entry(manufacturer).State = EntityState.Modified;
-            await _context.SaveChangesAsync();
+            var updatedManufacturer = await _manufacturerService.UpdateManufacturer(id, manufacturerDto);
+            if (updatedManufacturer == null) return NotFound();
 
             return NoContent();
         }
 
-        //Remove manufacturer
         [HttpDelete("{id}")]
-        public async Task<IActionResult> DeleteManufacturer(Guid id)
+        public async Task<IActionResult> RemoveManufacturer(Guid id)
         {
-            var manufacturer = await _context.Manufacturers.FindAsync(id);
-            if (manufacturer == null) return NotFound();
-
-            _context.Manufacturers.Remove(manufacturer);
-            await _context.SaveChangesAsync();
+            var deleted = await _manufacturerService.RemoveManufacturer(id);
+            if (!deleted) return NotFound();
 
             return NoContent();
         }

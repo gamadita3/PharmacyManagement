@@ -6,105 +6,83 @@ using System.Threading.Tasks;
 using Inventory.WebApi.EntityFramework;
 using Inventory.WebApi.Models;
 using Microsoft.Extensions.Logging;
+using Inventory.WebApi.Services.DrugManagement;
+using Inventory.WebApi.Dto;
 
 [Route("api/[controller]")]
 [ApiController]
 
 public class DrugsController : ControllerBase
 {
-    private readonly InventoryContext _context;
-    private readonly ILogger<DrugsController> _logger;
+    private readonly IDrugManagement _drugService;
 
-    public DrugsController(InventoryContext context, ILogger<DrugsController> logger)
+    public DrugsController(IDrugManagement drugService)
     {
-        _context = context;
-        _logger = logger;
+        _drugService = drugService;
     }
 
-    //Get all drug
+    // GET: api/drugs - Get all drugs
     [HttpGet]
-    public async Task<ActionResult<IEnumerable<Drug>>> GetDrugs()
+    public async Task<ActionResult<IEnumerable<DrugModel>>> GetDrugs()
     {
-        _logger.LogInformation("Fetching all drugs from the database.");
-        return await _context.Drugs.ToListAsync();
+        return Ok(await _drugService.GetAllDrugs());
     }
 
-    //Get drug by ID
+    // GET: api/drugs/{id} - Get a specific drug by ID
     [HttpGet("{id}")]
-    public async Task<ActionResult<Drug>> GetDrug(Guid id)
+    public async Task<ActionResult<DrugModel>> GetDrug(Guid id)
     {
-        var drug = await _context.Drugs.FindAsync(id);
+        var drug = await _drugService.GetDrugById(id);
         if (drug == null) return NotFound();
+
         return drug;
     }
 
+    // GET: api/drugs/search?name={name} - Search for drugs by name
     [HttpGet("search")]
-    public async Task<ActionResult<IEnumerable<Drug>>> GetDrugsByName(string name)
+    public async Task<ActionResult<IEnumerable<DrugModel>>> SearchDrugsByName(string name)
     {
         if (string.IsNullOrWhiteSpace(name))
         {
             return BadRequest("Search term cannot be empty.");
         }
 
-        var drugs = await _context.Drugs
-            .Where(d => d.Name.Contains(name))
-            .ToListAsync();
-
-        if (drugs == null || drugs.Count == 0)
+        var drugs = await _drugService.SearchDrugsByName(name);
+        if (drugs == null || !drugs.Any())
         {
             return NotFound($"No drugs found with name containing '{name}'.");
         }
 
-        return drugs;
+        return Ok(drugs);
     }
 
-    //Add Drug and invoice
+    // POST: api/drugs - Add a new drug
     [HttpPost]
-    public async Task<ActionResult<Drug>> PostDrug(Drug drug)
+    public async Task<ActionResult<DrugModel>> PostDrug(AddDrugDto drug)
     {
-        var manufacturer = await _context.Manufacturers.FindAsync(drug.ManufacturerId);
-        if (manufacturer == null)
-        {
-            return BadRequest("Invalid ManufacturerId.");
-        }
-
-        _context.Drugs.Add(drug);
-        await _context.SaveChangesAsync();
-
-        var invoice = new Invoice
-        {
-            DrugId = drug.DrugId,
-            Quantity = drug.Quantity,
-            TotalPrice = drug.Price * drug.Quantity,
-            Date = DateTime.UtcNow
-        };
-
-        _context.Invoices.Add(invoice);
-        await _context.SaveChangesAsync();
-
-        return CreatedAtAction(nameof(GetDrug), new { id = drug.DrugId }, drug);
+        var createdDrug = await _drugService.AddDrug(drug);
+        return CreatedAtAction(nameof(GetDrug), new { id = createdDrug.DrugId }, createdDrug);
     }
 
-    //Update Drug by id
+    // PUT: api/drugs/{id} - Update an existing drug
     [HttpPut("{id}")]
-    public async Task<IActionResult> PutDrug(Guid id, Drug drug)
+    public async Task<IActionResult> PutDrug(Guid id, UpdateDrugDto drug)
     {
         if (id != drug.DrugId) return BadRequest();
 
-        _context.Entry(drug).State = EntityState.Modified;
-        await _context.SaveChangesAsync();
+        var updatedDrug = await _drugService.UpdateDrug(id, drug);
+        if (updatedDrug == null) return NotFound();
+
         return NoContent();
     }
 
-    //Remove drug
+    // DELETE: api/drugs/{id} - Delete a drug
     [HttpDelete("{id}")]
     public async Task<IActionResult> DeleteDrug(Guid id)
     {
-        var drug = await _context.Drugs.FindAsync(id);
-        if (drug == null) return NotFound();
+        var deleted = await _drugService.RemoveDrug(id);
+        if (!deleted) return NotFound();
 
-        _context.Drugs.Remove(drug);
-        await _context.SaveChangesAsync();
         return NoContent();
     }
 }

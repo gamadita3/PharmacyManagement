@@ -1,9 +1,13 @@
 using Inventory.WebApi.EntityFramework;
+using Inventory.WebApi.Services.DrugManagement;
+using Inventory.WebApi.Services.ManufacturerManagement;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddScoped<IDrugManagement, DrugManagement>();
+builder.Services.AddScoped<IManufacturerManagement, ManufacturerManagement>();
 
 builder.Services.AddDbContext<InventoryContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
